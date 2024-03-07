@@ -1,0 +1,30 @@
+{
+  "name": "tea-pesoconvert",
+  "type": "module",
+  "version": "1.0.6",
+  "description": "A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.",
+  "main": "src/formatCurrency.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zayyandafaa/zayy.git"
+  },
+  "keywords": [
+    "currecy",
+    "K format",
+    "Philipina Currency"
+  ],
+  "author": "zayyandafaa <zayyandafa45@gmail.com>",
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
